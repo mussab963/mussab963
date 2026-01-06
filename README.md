@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]  
+# Hi there 👋, I'm MOSA3B AlEtek
 ### Front-End Developer | Freelancer | Passionate about building scalable, beautiful, and user-friendly applications 🌟
 
 ## 💻 Languages & Frameworks
@@ -23,12 +23,6 @@
 
 ---
 
-## 🔒 Security & Authentication
-
-- JWT | OAuth | Bcrypt
-
----
-
 ## 🚀 Projects & Highlights
 
 - Educational Platforms with automated tests
@@ -40,9 +34,9 @@
 
 ## 📬 Contact
 
-- 📧 Email: [Your Email]
-- 📞 Phone: [Your Phone Number]  
-- 🌐 Portfolio: [Your Portfolio Link]
+- 📧 Email: mosabetek@gmail.com
+- 📞 Phone: +963 930 968 562  
+- 🌐 LinkedIn Link: https://www.linkedin.com/in/mussab-aletek-b30003255
 
 ---
 
