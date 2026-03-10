@@ -1,4 +1,4 @@
-  # Hi there 👋, I'm MOSA3B AlEtek
+  # Hi there 👋, I'm MOS3AB AlEtek
 ### Front-End Developer | Freelancer | Passionate about building scalable, beautiful, and user-friendly applications 🌟
 
 ## 💻 Languages & Frameworks
